@@ -1,0 +1,16 @@
+{
+    "C_Cpp.clang_format_style": "file",
+    "C_Cpp.loggingLevel": "Debug",
+    "editor.rulers": [80],
+    "extensions.ignoreRecommendations": false,
+    "markdownlint.config": {
+        "MD003": { "style": "setext_with_atx" }
+    },
+    "particle.customDeviceOSLocation": "~/dev/GitHub/particle-iot/device-os/",
+    "particle.disableWelcomeScreen": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "terminal.integrated.scrollback": 100000,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0
+}
